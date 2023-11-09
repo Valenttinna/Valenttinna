@@ -1,4 +1,4 @@
-<img align="rigth" src="/Perfil.png" alt="perfil" >
+<img style="display: block; margin: 0 auto;" src="/Perfil.png" alt="perfil" >
 <h1 align="center">Hola 👋, soy VALENTINA RECHE</h1>
 <h3 align="center">Soy estudiante de la Tecnicatura superior en Programacion en la Universidad Tecnologina Nacional de San Rafael, Mza.</h3>
 
